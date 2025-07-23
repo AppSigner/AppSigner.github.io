@@ -4,7 +4,7 @@ page_title                                : AppSigner
 playstore_link                            : https://play.google.com/store/apps/details?id=com.apk.appsigner
 app_icon                                  : assets/appicon.png
 app_name                                  : AppSigner
-app_price                                 : Free
+app_price                                 : Paid
 app_description                           : Quickly & securely sign Android APKs on-the-go, no computer required.
 
 enable_smart_app_banner                   : true

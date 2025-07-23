@@ -1,6 +1,6 @@
 # AppSigner - Quickly & securely sign Android APKs on-the-go, no computer required
 
-<p style="text-align: center"><img src="https://raw.githubusercontent.com/apk-editor/AppSigner/master/screenshots/assets/screenshot.png" alt="" width="250" height="450" /> <img src="https://raw.githubusercontent.com/apk-editor/AppSigner/master/screenshots/2.png" alt="" width="250" height="450" /> <img src="https://raw.githubusercontent.com/apk-editor/AppSigner/master/screenshots/3.png" alt="" width="250" height="450" /></p>
+<p style="text-align: center"><img src="assets/screenshot/screenshot.png?raw=true" alt="" width="250" height="450" /> <img src="assets/screenshot/2.png?raw=true" alt="" width="250" height="450" /> <img src="assets/screenshot/3.png?raw=true" alt="" width="250" height="450" /></p>
 
 ## Key Features:
 
