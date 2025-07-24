@@ -25,7 +25,7 @@ We do not collect, store, or share any personal information about our users. Use
 AppSigner requires the following permissions to deliver its features:
 
 1. *REQUEST_INSTALL_PACKAGES*: Necessary for installing APKs, Split APKs, and app bundles.
-2. *QUERY_ALL_PACKAGES*: Required to make most applications visible on Android 11 and above.
+2. *USE_BIOMETRIC*: Required to enable biometric authentication (e.g., fingerprint) for securing AppSigner.
 
 <h3 style="color: green">Contact Us</h3>
 
