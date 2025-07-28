@@ -24,15 +24,6 @@
     <string name="file_path_error">Failed to get data from external file manager app</string>
     <string name="important">Important</string>
     <string name="initializing">Initializing…</string>
-    <string name="installation_status_aborted">Installation of %s is cancelled</string>
-    <string name="installation_status_bad_apks">Selected APK files are invalid</string>
-    <string name="installation_status_blocked">Installation is blocked by %s</string>
-    <string name="installation_status_conflict">Unable to install %s because it conflicts with an already installed app with same package name</string>
-    <string name="installation_status_failed">Installation of %s is failed</string>
-    <string name="installation_status_incompatible">Application %s is incompatible with this device</string>
-    <string name="installation_status_storage">Not enough storage space to install %s</string>
-    <string name="installation_status_success">Installation of %s is completed successfully</string>
-    <string name="installing">Installing %s…</string>
     <string name="keypair_mismatch_message">Mismatching keypair!</string>
     <string name="keystore_alias_hint">Choose an Alias</string>
     <string name="keystore_alias_password_hint">Alias Password</string>
@@ -78,9 +69,9 @@
     <string name="welcome_page_disclaimer_title">Disclaimer</string>
     <string name="welcome_page_disclaimer">AppSigner is designed with good intentions. Please use it responsibly and for legitimate purposes only.</string>
     <string name="welcome_page_features_title">Features</string>
-    <string name="welcome_page_features">- Easily resign installed apps in just a few taps\n- Sign APKs and app bundles from your device\'s storage\n- Instantly sign APKs by opening them directly in AppSigner\n- Choose from default or custom keystores for signing\n- Seamlessly install or share signed apps</string>
+    <string name="welcome_page_features">- Sign APKs and app bundles from your device\'s storage\n- Instantly sign APKs by opening them directly in AppSigner\n- Choose from default or custom keystores for signing\n- Easily share signed apps</string>
     <string name="welcome_page_permissions_title">Permissions required</string>
-    <string name="welcome_page_permissions">- REQUEST_INSTALL_PACKAGES: Necessary for installing APKs, Split APKs, and app bundles\n- USE_BIOMETRIC: Required to enable biometric authentication (e.g., fingerprint) for securing AppSigner</string>
+    <string name="welcome_page_permissions">- USE_BIOMETRIC: Required to enable biometric authentication (e.g., fingerprint) for securing AppSigner</string>
     <string name="yes">Yes</string>
     <string name="x509_certificate_invalid">Selected X509Certificate is invalid!</string>
     <string name="x509_certificate_requirement_message">In order to sign APK\'s with a custom key, AppSigner also requires the X509Certificate exported from the same pk8 private key.</string>
